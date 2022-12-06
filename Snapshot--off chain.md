@@ -1,5 +1,26 @@
 Snapshot -- off chain -- 
 
+Words or slangs
+
+CSG -  Constructive Solid Geometry
+ZK-Rollups - ???
+Optimistic rollups - ???
+Oracul - 
+Guardian - 
+Node - 
+Zero knowledge proofs -
+Confidencial Computing -
+Homomorphic Encryption -
+LEO - 
+Stark net - 
+CARL -
+Quantum resistance -  
+
+
+
+
+
+
 Discord golosovaniya
 
 
@@ -67,7 +88,7 @@ New language
   
 Language Circom - zero knowledge - -> -> docs.sircom.io ->-> https://github.com/iden3/circom
 
-CSJ - Case se jo commitment - (seyj) sagemath.org &&& STARK  
+CSJ (CSG) - Case se jo commitment - (seyj) sagemath.org &&& STARK  
                                                             
 Spark.org -- (apache spark OR && Oracle Spark) --- (архитектура микропроцессора)
 
@@ -83,7 +104,7 @@ CSSJ -  merkle tree - use hech - use plenomil - and with - random tocks -
 web3 curse - For mathematics is simple but for  ... is difficult
 
 
-Merckle trees - 
+Merckle trees - academy.binance
 
 
 interactiove argument technologies - 
@@ -110,6 +131,21 @@ Merckle proofs -
 Ark works - Rust. 
 
 Surkm - Snarck -> plonki -> ARK WORKS -> library Rust -> Hardcore developers -> 
+
+
+SNARKS - https://hub.forklog.com/pochemu-snarks-eto-tehnologiya-sleduyushhego-desyatiletiya/
+https://habr.com/ru/post/342262/
+https://github.com/zeroegg/ethsnarks
+https://medium.com/@tommy.msz006/zk-battleship-a-use-case-combining-snarkjs-web3-and-angular-f015b7781766
+https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks/
+https://medium.com/minaprotocol/2022-predictions-zero-knowledge-proofs-become-web3s-killer-feature-719cc49117e4
+https://web3.career/cryptography-engineer-zk-snark-atomlabs/35440
+https://minaprotocol.com/ru/blog/zk-you-should-know-snarks-starks
+
+
+Starks -> https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-starks/
+
+
 
 
 Monday - we are read article on english -> and will be conversations. -> interesting -> 
