@@ -54,12 +54,14 @@ New language
 
 1-2 years - 
 
-Language Circom - zero knowledge - 
+Language Circom - zero knowledge - -> -> docs.sircom.io ->-> https://github.com/iden3/circom
 
 
-CSJ - Case se jo commitment - seyj  &&& STARK 
+CSJ - Case se jo commitment - (seyj) sagemath.org &&& STARK  
+                                                            
+ Spark.org -- (apache spark OR && Oracle Spark) --- (архитектура микропроцессора)
 
-Sirkom 
+Sirkom -- ???
 
 
 Stack -- 
