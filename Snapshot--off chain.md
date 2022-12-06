@@ -42,7 +42,11 @@ Assembler programming language -
 
 LEO - 
 
-high level languages - stark net - * CARL - * quantum resistance 
+high level languages - stark net - > starknet.io ---> https://vc.ru/crypto/368122-testnet-starknet-poshagovaya-instrukciya-po-uchastiyu
+  
+  
+  
+  * CARL - * quantum resistance 
 
 
 plonki 
@@ -53,16 +57,16 @@ Svoyu computer - 5 or 10 naborhikov - EK - developing own yours -
 New language
 
 1-2 years - 
-
+-----------
+->>> TECHNOLOGY STACK <<<-
+  
 Language Circom - zero knowledge - -> -> docs.sircom.io ->-> https://github.com/iden3/circom
-
 
 CSJ - Case se jo commitment - (seyj) sagemath.org &&& STARK  
                                                             
- Spark.org -- (apache spark OR && Oracle Spark) --- (архитектура микропроцессора)
+Spark.org -- (apache spark OR && Oracle Spark) --- (архитектура микропроцессора)
 
 Sirkom -- ???
-
 
 Stack -- 
 
@@ -105,7 +109,7 @@ Surkm - Snarck -> plonki -> ARK WORKS -> library Rust -> Hardcore developers ->
 
 Monday - we are read article on english -> and will be conversations. -> interesting -> 
 
-CSG -> articles -> 
+CSG -> articles -> FINDING -> https://medium.com/@daniel.mbfm/csg-subtracting-solids-in-webgl-dadc6126c041
 
 github -> DeFi -> English club -> Dictatura -> 
 
@@ -130,10 +134,10 @@ Math - soft - not a python - processor - ck secury code - Care - * specific lang
 
 Caru -> difficult context -> Accestaple --
 
-learn -> serpm -> aleo - > good language.
+learn -> serpm ?? -> aleo ((" community")) - > good language.
 
 
-Astec --
+Astec -- aztec.network ->>> Privacy Layer for web3
 
 Да ок<div class="
 "></div>
@@ -148,6 +152,7 @@ Astec --
 
 oni n
 
+--------OPINIONS-------
 zashifrovani - v etom bolshoye budushee -> opyat je 
 
 Efir - polnostyu privateni -> web2 daje stanet privatnim , est gipoteza o tom chto skoro sam efir budet ispolsavatysa roll-upom. astalniye traszaksiyi budet na web2.
