@@ -6,6 +6,9 @@ Discord golosovaniya
 *Presentation
 Discord - Samiy populyarniy mesto dlsya golosovaniya < posle Snapshot 
 
+
+- ZK ROLLUP -> article -> https://vc.ru/crypto/339092-chto-takoe-zk-rollups-i-optimistic-rollups
+
 Roll-up 
 
 Optimist
@@ -17,6 +20,8 @@ Gardian
 node
 
 Bezopasnix vichesleniy - 
+
+#ОСНОВНЫЕ ТЕМЫ
 
 Zero knowledge proofs 
 Confidencial Computing
