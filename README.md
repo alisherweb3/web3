@@ -13,3 +13,11 @@ BRANCHES
 - dao
 - defi
 - dune
+
+
+Mathematical models
+
+- Formula Lappas - Pyer-Simon Lappas (1749-1827) - Franch mathematics b один из создателей теории вероятностей.
+
+Formula Lappas - n+1/n+2 - gde n - prededishie izvestnie popitki . n~1000 => 1001/1002
+. A esli nado nayti shansi togo chto eto ne proizoydet to - 1/1002.
