@@ -5,6 +5,7 @@
 Эксперт из Aragon поделился с нами материалами для скоростного погружения в тему.
 
 Видео:
+
 1️⃣ ZK in 5 levels (http://youtu.be/fOGdb1CTu5c) (изи)
 
 2️⃣ Demystifying ZK Programming (http://youtu.be/e-1mPNEINRI) (посложнее)
@@ -17,6 +18,7 @@
 
 
 Статьи:
+
 6️⃣ What are zk proofs (http://ethereum.org/en/zero-knowledge-proofs/) (база)
 
 7️⃣ From Zero to Hero (http://vitalik.ca/general/2016/12/10/qap.html) (текникал)
