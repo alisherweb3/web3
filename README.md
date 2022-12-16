@@ -14,8 +14,9 @@
 
 
 
-### MEAN (MongoDB, ExpressJS, AngularJS, NodeJS ) &&& MERN ( MongoDB, ExpressJS, ReactJS, NodeJS) or maybe Vue JS.
-
+### MEAN (MongoDB, ExpressJS, AngularJS, NodeJS ) 
+### MERN ( MongoDB, ExpressJS, ReactJS, NodeJS) 
+### VueJS
 
 # NODE.js & express & React
 
