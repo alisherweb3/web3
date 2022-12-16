@@ -12,10 +12,28 @@ const square = (number) => number * number;
 
 ## Parameters vs Arguments
 
+Let's try replacing name, with firstName.
 ```javascript
 const sayHi = (firstname) =? {
   console.log('Hi, ${firstName}');
 };
 
 sayHi('Joe'); // Hi Joe
+```
+
+making a function call:
+```javascript
+const logAge = (name, age) => {
+  console.log('${firstName} is ${age} years old.');
+};
+
+logAge('Joe', 25); // Joe is 25 years old.
+```
+
+
+
+## Global Scope
+
+```
+const name = 'Adrian';
 ```
