@@ -14,8 +14,26 @@
 
 
 
+### MEAN (MongoDB, ExpressJS, AngularJS, NodeJS ) &&& MERN ( MongoDB, ExpressJS, ReactJS, NodeJS) or maybe Vue JS.
 
 
+# NODE.js & express & React
+
+```
+npm -v
+```
+
+```
+node -v
+```
+
+```
+node server.js
+```
+
+```
+react.js -> app.js & main.js & server.js
+```
 
 
 
