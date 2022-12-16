@@ -1,2 +1,5 @@
-# web3
-From JS to Smart-Contracts. Modern React, web3 frameworks for decentralized applications. All learning will practice in fight project change with smart contracts
+# DeFi-Analyst
+From Reddit-degun to Dune-GURU
+
+
+DeFi — это не только четырехзначные APY, стейкинг, фарминг, рагпулы и иксы на булране. Научимся упаковывать ончейн-данные в dune-дэшборды и анализировать токеномику с понциномикой, не ограничиваясь FDV и TVL. Для четкой картинки без дегенства и эйпинга.
