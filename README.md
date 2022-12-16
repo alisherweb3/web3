@@ -49,7 +49,7 @@ DeFi — это не только четырехзначные APY, стейки
 
 - *FDV - Fully Diluted Valuation. => FDV: Market Cap = Token Price X Circulating Supply. FDV = Token Price X Maximum Supply.
 
-
+- *DLT - Distributed Ledger Technology => технология распределенного реестра
 
 
 - *TVL - Total Value Locked
