@@ -31,6 +31,14 @@ Sources:
 <a href="https://www.web3learn.io/">Web3 Learn</a>
 
 <a href="https://learnweb3.io/">Learn Web3<a>
+  
+  <a href="https://learn.figment.io/"> figment web3 </a>   
+  
+  
+  
+# CARREER
+
+  <a href="https://web3.career/learn-web3"> vacancy </a>
 
 
 
