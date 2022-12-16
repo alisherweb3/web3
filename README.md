@@ -4,7 +4,7 @@ From JS to Smart-Contracts. Modern React, web3 frameworks for decentralized appl
 
 # JS
 
-### arrow functions
+## Arrow functions
 
 ```javascript
 const square = (number) => number * number;
