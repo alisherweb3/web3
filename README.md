@@ -32,3 +32,26 @@ DeFi — это не только четырехзначные APY, стейки
 - Varience and meaning stablecoins
 
 - Cryptderivatives: options and futures
+
+
+# Data source
+
+Token Terminal
+DeFi Pulse
+Dune Analytics
+Messari
+DeFiLlama
+Nansen
+Etherscan
+
+
+
+*FDV - Fully Dileted Valuation
+*TVL - Total Value Locked
+*AUM - Assets Under Managment
+*AMM - Automated Market Maker
+
+*P/S - Price to Sales
+*P/E - Price to Earnings
+*Revenue to TVL Ratio
+*P/V - Price to Volume
