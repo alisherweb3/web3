@@ -45,10 +45,13 @@ DeFi — это не только четырехзначные APY, стейки
 - Etherscan
 
 
-
 # Dictionary
 
-- *FDV - Fully Dileted Valuation
+- *FDV - Fully Diluted Valuation. => FDV: Market Cap = Token Price X Circulating Supply. FDV = Token Price X Maximum Supply.
+
+
+
+
 - *TVL - Total Value Locked
 
 *AUM - Assets Under Managment
