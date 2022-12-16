@@ -8,3 +8,4 @@ From JS to Smart-Contracts. Modern React, web3 frameworks for decentralized appl
 
 '''
 const square = (number) => number * number;
+'''
