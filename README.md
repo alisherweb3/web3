@@ -36,13 +36,13 @@ DeFi — это не только четырехзначные APY, стейки
 
 # Data source
 
-Token Terminal
-DeFi Pulse
-Dune Analytics
-Messari
-DeFiLlama
-Nansen
-Etherscan
+- Token Terminal
+- DeFi Pulse
+- Dune Analytics
+- Messari
+- DeFiLlama
+- Nansen
+- Etherscan
 
 
 
@@ -53,6 +53,8 @@ Etherscan
 *AUM - Assets Under Managment
 
 *AMM - Automated Market Maker
+
+/////////////////////////////
 
 
 *P/S - Price to Sales
