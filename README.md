@@ -44,6 +44,11 @@ DeFi — это не только четырехзначные APY, стейки
 - Nansen
 - Etherscan
 
+* dic 
+
+- testnet/mainnet
+- consnsys
+
 
 # Dictionary
 
@@ -57,6 +62,7 @@ DeFi — это не только четырехзначные APY, стейки
 *AUM - Assets Under Managment
 
 *AMM - Automated Market Maker
+
 
 /////////////////////////////
 
