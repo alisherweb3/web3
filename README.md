@@ -9,3 +9,13 @@ From JS to Smart-Contracts. Modern React, web3 frameworks for decentralized appl
 ```javascript
 const square = (number) => number * number;
 ```
+
+## Parameters vs Arguments
+
+```javascript
+const sayHi = (firstname) =? {
+  console.log('Hi, ${firstName}');
+};
+
+sayHi('Joe'); // Hi Joe
+```
