@@ -47,11 +47,18 @@ Etherscan
 
 
 *FDV - Fully Dileted Valuation
+
 *TVL - Total Value Locked
+
 *AUM - Assets Under Managment
+
 *AMM - Automated Market Maker
 
+
 *P/S - Price to Sales
+
 *P/E - Price to Earnings
+
 *Revenue to TVL Ratio
+
 *P/V - Price to Volume
