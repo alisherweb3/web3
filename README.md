@@ -21,7 +21,7 @@ const sayHi = (firstname) =? {
 sayHi('Joe'); // Hi Joe
 ```
 
-making a function call:
+Making a function call:
 ```javascript
 const logAge = (name, age) => {
   console.log('${firstName} is ${age} years old.');
@@ -36,4 +36,18 @@ logAge('Joe', 25); // Joe is 25 years old.
 
 ```
 const name = 'Adrian';
+```
+
+## Local Scope
+
+```
+// Global Scope
+
+const someFunction = () => {
+  // Local Scope #1
+  
+  const anotherFunction = () => {
+    // Local Scope #2
+  };
+};
 ```
