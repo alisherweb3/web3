@@ -46,9 +46,11 @@ DeFi — это не только четырехзначные APY, стейки
 
 
 
-*FDV - Fully Dileted Valuation
+# Dictionary
 
-*TVL - Total Value Locked
+- *FDV - Fully Dileted Valuation
+
+- *TVL - Total Value Locked
 
 *AUM - Assets Under Managment
 
