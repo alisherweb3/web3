@@ -64,7 +64,7 @@ DEMO: Duck Airlines.
 
 # Overview 
 
-### <a id="datatypes"></a>Дизайн и Aрхитектура
+### <a id="datatypes"></a>Data Types
 
 
 : Development tools
