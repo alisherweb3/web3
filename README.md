@@ -1,91 +1,42 @@
-# web3
-From JS to Smart-Contracts. Modern React, web3 frameworks for decentralized applications. All learning will practice in fight project change with smart contracts in backend, Next.js/Tailwindcss in frontend
+# Rust Fundamentals
 
-BRANCHES
+Rust is a strong and static programming language.
 
-- ethereum
-- javascript
-- react
-- css
-- nft
-- typescript
-- web3
-- dao
-- defi
-- dune
+```Rust
+let distance:f64 = Earth_Radius_In_Kilometers * central_angle;
+```
 
+```Rust
+println("{:.1}", distance);
+```
+What is Rust? Why should I care about?
 
+Rust is a language that is based around safety and speed. Rust programs typically run ass fast as or faster than C++ programs. Writing concurent is trivial!
 
-Road-Map
+Why learn Rust?
 
-Sources:
-
-### 1.
-
-<a href="https://www.useweb3.xyz/"> Usw Web3 </a>
-
-<a href="https://www.alchemy.com/overviews/how-to-learn-web3-development">How to Learn Web3</a>
-
-<a href="https://www.web3.university/">Web3 University</a>
-
-<a href="https://www.web3learn.io/">Web3 Learn</a>
-
-<a href="https://learnweb3.io/">Learn Web3<a>
-  
-  <a href="https://learn.figment.io/"> figment web3 </a>   
-  
-  
-  
-# CARREER
-
-  <a href="https://web3.career/learn-web3"> vacancy </a>
+Rust memory managment is handled by Rust without the need for a garbage collector. If your code compiles, it will run without error. Native cross-platform executables. helps enforce consistency which supports governance and makes onboarding easier. Allows mentoring of developers to focus on areas other than defensive coding.
 
 
+What's the Catch?
+
+Rust has a steep learning curve. You must approach Rust programming differently.
+
+Final Thoughts:
+
+Rust has been the most loved language for the last several years. It's a good time to learn Rust, because big companies are investing in Rust's future.
 
 
-## 2. 
+Coding Environment Setup: Overview
 
-<a href="http://"> here.</a>
-<a href="http://"> here.</a>
-<a href="http://"> here.</a>
-
-
-
-## 3. 
-
-<a href="http://"> here.</a>
-<a href="http://"> here.</a>
-
-
-
-## 4:
-
-
-## 5:
-
-
-## 6: Star the Best GitHub Repos
-
-<a href="https://github.com/foundry-rs/foundry">Foundry</a>
-  
-<a href="https://github.com/dabit3/full-stack-ethereum"> Full-stack Ethereum</a>
-
-<a href="https://github.com/OpenZeppelin/openzeppelin-contracts">Open Zeppelin</a>
-
-<a href="https://github.com/rainbow-me/rainbowkit">Rainbow</a>
-
-<a href="http://"> here.</a>
-<a href="http://"> here.</a>
-<a href="http://"> here.</a>
+- Data Types
+- Variables
+- Operators
+- Control Flow
+- 
 
 
 
 
 
-<a href="http://"> here.</a>
 
-
-<a href="http://"> here.</a>
-
-
-<a href="http://"> here.</a>
