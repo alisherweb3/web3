@@ -82,8 +82,13 @@ Download toolchain managment utility @ https://rustup.rs
 
 `rustc --version`
 
-You need to download from <a href="https://visualstudio.microsoft.com/visual-cpp-build-tools/"> Visual Studio </a>.
+You need to download <a href="https://visualstudio.microsoft.com/visual-cpp-build-tools/"> Visual Studio </a>.
 After this download <a href="https://www.jetbrains.com/idea/download/"> Jetbrains codespace for Rust </a>.
+
+And u can download Visual Studio Code for programming. <a href="https://marketplace.visualstudio.com/"> Marketplace Visual Studio Code </a>
+
+U can play with code in <a href="https://play.rust-lang.org"> Rust Sandbox </a>
+
 
 
 
