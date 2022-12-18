@@ -33,7 +33,7 @@ Coding Environment Setup: * [Overview](#overview)
 
 * [Дизайн и Aрхитектура](#design-architecture)
 
-- Data Types
+-* [Data Types]
 - Variables
 - Operators
 - Control Flow
