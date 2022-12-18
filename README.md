@@ -31,7 +31,7 @@ Rust has been the most loved language for the last several years. It's a good ti
 
 Coding Environment Setup: * [Overview](#overview)
 
-* [Дизайн и Aрхитектура](#design-architecture)
+
 
 * [Data Types](#datatypes)
 - Variables
@@ -64,7 +64,7 @@ DEMO: Duck Airlines.
 
 # Overview 
 
-### <a id="design-architecture"></a>Дизайн и Aрхитектура
+### <a id="datatypes"></a>Дизайн и Aрхитектура
 
 
 : Development tools
