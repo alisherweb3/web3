@@ -89,6 +89,14 @@ And u can download Visual Studio Code for programming. <a href="https://marketpl
 
 U can play with code in <a href="https://play.rust-lang.org"> Rust Sandbox </a>
 
+## Anatomy of Rust Program
 
+```Rust
+#! [allow(unused_variables)]
 
+fn main() {
+  let unused_variable: u32: 0;
+  println!("Hello World!:); 
+}
+```
 
