@@ -80,5 +80,10 @@ Download toolchain managment utility @ https://rustup.rs
 
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
+`rustc --version`
+
+You need to download from <a href="https://visualstudio.microsoft.com/visual-cpp-build-tools/"> Visual Studio </a>.
+After this download <a href="https://www.jetbrains.com/idea/download/"> Jetbrains codespace for Rust </a>.
+
 
 
