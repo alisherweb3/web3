@@ -29,7 +29,7 @@ Final Thoughts:
 Rust has been the most loved language for the last several years. It's a good time to learn Rust, because big companies are investing in Rust's future.
 
 
-Coding Environment Setup: * Overview(#overview)
+Coding Environment Setup: * [Overview](#overview)
 
 * [Дизайн и Aрхитектура](#design-architecture)
 
