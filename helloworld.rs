@@ -2,5 +2,6 @@
 #! [allow(unused_variables)]
 
 fn main() {
-  println!("Hello World!:);
+  let unused_variable: u32: 0;
+  println!("Hello World!:); 
 }
