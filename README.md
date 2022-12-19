@@ -131,3 +131,14 @@ Numbers  |   Text Data
 Scalae 
 
 
+## Variables 
+
+### CORE Design Philosophies of Rust
+- Safety
+- Concurrency
+- Speed
+
+
+
+## Operators
+
