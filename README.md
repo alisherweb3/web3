@@ -142,3 +142,9 @@ Scalae
 
 ## Operators
 
+
+## Control Flows
+- If Else Statements
+- Enum and Match
+- Option
+- 
