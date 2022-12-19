@@ -12,7 +12,7 @@ println("{:.1}", distance);
 ### Rust bu nima? Nima uchun bu muhim?
 
 
-Rust tez va himoyaga asoslangan til. Rust dasturin C++ dasturidan juda tez ishlaydi. Unga qarama-qarshilik qila oladi!
+Rust tez va himoyaga asoslangan til. Rust dasturi C++ dasturidan ko'ra juda tez ishlaydi. Unga qarama-qarshilik qila oladi!
 
 
 ### Rustni o'rganish nimaga kerak?
