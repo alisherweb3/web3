@@ -100,3 +100,34 @@ fn main() {
 }
 ```
 
+
+
+
+
+## Strongly Typed Language | STRONG - 
+
+- Animal ( Eat, Sleep )
+- Duck ( Quack, Swim )
+- Dog ( Runs, jumps )
+
+
+
+--------------------------
+
+## WEAK - more sagety than flexibility
+
+
+
+
+## COMPILED AND INTERPRETER
+
+## Stack and Heap | Data Storage Memory
+
+## Data Types
+
+Differencies in Data Types:
+Numbers  |   Text Data
+
+Scalae 
+
+
