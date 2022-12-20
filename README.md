@@ -1,3 +1,45 @@
+# Alchemy SDK
+
+`npm install alchemy-sdk`
+
+
+```
+// Setup: npm install alchemy-sdk
+import { Alchemy } from "alchemy-sdk";
+const alchemy = new Alchemy();
+
+// Get the latest block
+const latestBlock = alchemy.core.getBlockNumber();
+
+// Get all the NFTs owned by an address
+const nfts = alchemy.nft.getNFTsForOwner("0xshah.eth");
+
+// Listen to all new pending transactions
+alchemy.ws.on(
+  { method: "alchemy_pendingTransactions",
+  fromAddress: "0xshah.eth" },
+  (res) => console.log(res)
+);
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # web3
 From JS to Smart-Contracts. Modern React, web3 frameworks for decentralized applications. All learning will practice in fight project change with smart contracts in backend, Next.js/Tailwindcss in frontend
 
