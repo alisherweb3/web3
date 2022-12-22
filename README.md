@@ -14,6 +14,21 @@ BRANCHES
 - defi
 - dune
 
+## Career 
+
+<a href="https://github.com/alisherweb3/web3/tree/web3dev"> Web3 Developer </a>
+
+<a href="https://github.com/alisherweb3/web3/tree/Solidity"> Solidity Developer </a>
+
+<a href="https://github.com/alisherweb3/web3/tree/dao_architector"> DAO Architector </a>
+
+<a href="https://github.com/alisherweb3/web3/tree/nftdev"> Nft Developer </a>
+
+<a href="https://github.com/alisherweb3/web3/tree/defi_analyst"> DeFi Analyst </a>
+
+<a href="https://github.com/alisherweb3/web3/tree/audit"> Auditor Smart Contracts </a>
+
+
 
 
 Road-Map
