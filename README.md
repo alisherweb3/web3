@@ -24,3 +24,5 @@
 • Ruby on Rails
 
 • .NET
+
+### CRUD - Create, Read, Update, Delete
