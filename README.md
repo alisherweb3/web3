@@ -11,3 +11,12 @@
 - Classes and interfaces
 
 - Patterns and design (проектирование)
+
+
+
+
+• MEAN (Mongo, Express, Angular and Node)
+• LAMP (Linux, Apache, MySQL and PHP)
+• Python-Django
+• Ruby on Rails
+• .NET
