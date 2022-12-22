@@ -13,10 +13,14 @@
 - Patterns and design (проектирование)
 
 
-
+## Stacks 
 
 • MEAN (Mongo, Express, Angular and Node)
+
 • LAMP (Linux, Apache, MySQL and PHP)
+
 • Python-Django
+
 • Ruby on Rails
+
 • .NET
