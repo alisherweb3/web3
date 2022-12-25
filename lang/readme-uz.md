@@ -4,16 +4,16 @@ Javascriptdan boshlab Smart-Contract largacha. Markazlashtirilmagan ilovalar uch
 
 branches
 
-- ethereum
-- javascript
-- react
-- css
-- nft
-- typescript
-- web3
-- dao
-- defi
-- dune
+<a href="https://github.com/alisherweb3/web3/tree/ethereum"> ethereum </a>
+<a href="https://github.com/alisherweb3/web3/tree/javascript"> javascript </a>
+<a href="https://github.com/alisherweb3/web3/tree/react"> react </a>
+<a href="https://github.com/alisherweb3/web3/tree/css"> css </a>
+<a href="https://github.com/alisherweb3/web3/tree/nft"> nft </a>
+<a href="https://github.com/alisherweb3/web3/tree/typescript"> typescript </a>
+<a href="https://github.com/alisherweb3/web3/tree/web3"> web3 </a>
+<a href="https://github.com/alisherweb3/web3/tree/dao"> dao </a>
+<a href="https://github.com/alisherweb3/web3/tree/defi"> defi </a>
+<a href="https://github.com/alisherweb3/web3/tree/dune"> dune </a>
 
 ## web3 ga oid Kasblar
 
