@@ -9,6 +9,9 @@
 
 Челленджи Damn Vulnerable Defi
 
+<a href="https://www.damnvulnerabledefi.xyz/challenges/1.html"> Challenges DeFi </a>
+
+
 Документация функций на NatSpec
 
 Покрытие тестами с solidity-coverage
