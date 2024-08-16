@@ -9,10 +9,10 @@ BRANCHES
 - css
 - nft
 - typescript
-- web3
+- web3 (gamefi, defi, depin)
 - dao
 - defi
-- dune
+- dune (arkham, dexscreener)
 
 ## Career 
 
