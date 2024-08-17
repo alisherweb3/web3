@@ -94,6 +94,11 @@ Sources:
 <a href="http://"> here.</a>
 
 
+In this area, idk, what happens in the future...
+
+Maybe comes, web4 (symbiotic web) or web5 ( emotional web)
+
+
 
 
 
