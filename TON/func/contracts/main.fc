@@ -1,0 +1,22 @@
+#include "imports/stdlib.fc";
+
+() recv_internal(int msg_value, cell in_msg, slice in_msg_body) impure {
+    slice cs = in_msg.begin_parse();
+    int flags = cs~load_uint(4);
+    slice sender_address = cs~load_msg_addr();
+
+set_data(begin_cell().store_slice(sender_address).end_cell());
+}
+
+# msg_value -- bu parametr, nechta TON monetkasi (yoki notcoin) bu message uchun kerakligiini ko'rsatadi
+
+# in_msg -- buni ichida cell bor, va uni tarkibida, qabul qilinadigan message, yuborayotgan akkunt haqida ma'lumot va other data lar bor.
+
+# in_msg_body -- bu o'qiladigan message, u slice type ga ega ("fragment"), bu cell bo'lgani uchun, -- biz o'qishni boshlaydigan address ni ko'rsatadi.
+
+# bu yerda 3 ta spec functionlar bor, masalan: impure, inline/inline_ref, method_id
+
+slice get_the_latest_sender() method_id {
+  slice ds = get_data().begin_parse();
+  return ds~load_msg_addr();
+}
